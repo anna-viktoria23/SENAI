@@ -1,0 +1,20 @@
+Exercicios- Python- Algoritimo
+1:
+1- coloca o que o usuario vai fazer
+2- define as variantes
+4- cria a variante auxuliar da soma
+5- junta as coisas
+6- coloca para o usuario a resposta
+
+2:
+-informa o usuário do que será feio
+-cria a variavel 1 que vai ser onde o valor em metros será informado
+-cria a variavel auxiliar e coloca que ela é a tribuida a varaivel1 * 1000 (milimetros)
+-termina o codigo informando o valor em milimetros 
+
+3:
+-infroma o usuario do que sera feito
+-faz as variaveis (dias, minutos,horas, segundos)
+- outra variavel para contas (d_pseg, h_pseg, m_pseg)
+-faz a varaivel para somar (soma)
+-termina o codigo informando o valor desejado

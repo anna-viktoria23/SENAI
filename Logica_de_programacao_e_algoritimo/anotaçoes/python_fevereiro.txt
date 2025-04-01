@@ -1,0 +1,76 @@
+python: Caracteristicas  11/02
+
+|*Legivel*|- indentação obrigatoria. Não obriga misturas "tabs" e espaços
+|*Multiplataforma*|- Windows, Linux/Unix, MacsOS
+|*Tipagem forte e dinamica*|- é possivel atribuir qualquer tipo de valor a uma variavel e em qualquer momento do codigo fonte
+|*Multiparadigma*|- Estruturado, Funcional e Orientado  a objetos
+Usada em varias aplicações: desktop, web, moblie, sistemas embarcados, sistemas 3D
+|-Diferença maiúscula e minúscula-|
+
+Shell: terminal
+__________________________________________________________________
+Aula 1
+
+Tópicos:
+-Variaveis
+-tipos de dados
+-operadores
+-entrada de dados
+
+|*VARIÁVEIS*|
+-Iniciar, obrigatoriamente, com uma *letra*
+-Pode conter numeros e o carectere de sublinhado (_)
+-Permite a utilização de acentos (conjunto de caracter chamado UTF-8), a partir da versão 3
+-Exemplos: nome, n1, média_notas,_a.
+
+TIPOS DE DADOS
+-Inteiros (1,2,3)
+-Pontos flutiantes (1.33, 3.14)
+*LOGICO OU BOOLEANO*
+-True para verdadeiro
+-False para falso
+*String*
+- s= "abc" ou s= 'abc' (variavel tipo texto)
+Listas
+Triplas
+Dicionarios
+
+|OPERADORES LÓGICOS|  13/02
+
+_________________
+| V1     Not V1  |
+|________________|
+| V    |    F    |
+| F    |    v    |
+|______|_________|
+
+operador and: 
+
+Num1= 5
+Num2= 7 
+           |======> ou tudo é verdadeiro ou nem valida
+Se Num1> 1 e Num2>5 
+|----> DIGA: parabens, você acertou
+
+operador or:
+com o ou você pode validar apenas uma das opções
+
+Função do print (saída de dados):
+-Exibir uma mensagem na tela do computador
+
+Função do input:
+-Espera o usuário digitar um texto no teclado e pressionar <Enter>
+__________________________________________________________________
+
+int= numeros inteiros
+float= numero quebrado
+
+#-*- coding: UTF-8 -*-
+
+import math
+
+o %i dentro do " perde a função do mudulo e referência onde quer que a variável apareça
+
+#- comentário
+
+:.2f- indica quantas virgulas irá aparecer no número

@@ -1,0 +1,9 @@
+se, senão
+não encadiado: estruturas dentro das outras que respeitam a hierarquia
+
+variavel:
+acumuladora: acumula valores, soma eles
+contadora: contabiliza valores, contando eles
+
+repita: sabemos a quantidade de valores que vão repitir, conseque fazer ele parar
+repita até que: um "sempre" misturado com um "se"

@@ -1,0 +1,19 @@
+nessa aula:
+-Estrutura de seleção
+-Exemplos
+-Exercicios
+
+Estruturas de seleção: traz a escolha de onde irá poder ir (escolher)
+
+Sintaxe de estrutura IF
+
+if- condição --> cria um bloco
+(:) informa que existe um bloco de linhas a seguir
+estrutura: if (variavel) : enter
+*usa para verificar informações que não vão se envolver*
+
+Clausula else
+contradiz os if's antes dele
+
+clausula elif: substitui else e if, mas não cria um outro nivel de estrutura, evitando problemas de deslocamentos desnecessários
+

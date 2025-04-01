@@ -1,0 +1,63 @@
+questão 7-
+
+1- falar para o Usuário o que será feito no programa
+2- Criar as variáveis (num1, num2 e expoente)
+3- criar a função para a potencia (usar o def)
+4- chamar o global para colocar a variável expoente e colocar o return para voltar
+5- chamar a função criada no def 
+6- Colocar a resposta onde aparece o resultado da potencia
+
+Questão 6-
+1- Falar para o Usuário o que será feito no programa
+2- Criar a variável para receber o numero do usuário (num)
+3- utilizar o for para mostrar a sequencia de números, colocando 0 para iniciar a contagem, a variável num para indicar em que numero para a contagem e 5 como incremento
+4- utilizar o print para mostrar a sequencia de múltiplos de 5
+
+questão 10-
+
+1- falar para o usuário o que irá ser feito no programa
+2- criar a variável para pegar o valor da conta do usuário
+3- utilizar o if para validar que se o preço for maior de 200 irá apenas calcular 8% do valor
+4- utilizar um elif para validar que se o preço for menor ou igual a 200, irá apenas calcular 10%
+5- utilizar um else para fechar o programa e para caso de algum erro
+6- em ambos os casos, no final irá usar o print que dependendo do preço vai aparecer o valor da taxa
+
+questão 4-
+
+1- falar para o usuário o que irá fazer no programa
+2- criar a variável que vai receber o número do usuário
+3- colocar um if para validar se o valor é menor que 10
+4- colocar um elif para validar se o valor está entre 10 e 20
+5- colocar um elif para validar se o valor é maior que 20
+6- usar um else para caso o usuário faça algo de errado
+7- em todos, assim que validar a opção irá aparecer a mensagem final do print
+
+questao 5-
+
+1- Falar para o Usuário o que irá ser feito no programa
+2- criar a variável para receber o valor do salário
+3- fazer um if para validar caso o salário seja menor que 1500, o que quer dizer que o bônus será de 15%
+4- fazer um elif para validar caso o salário seja maior que 1500, o que quer dizer que o bônus será de 10%
+5- fazer um else para fechar o programa e validar caso de algum erro no programa
+6- ao final de todos, será exibido um texto falando sobre qual foi a quantidade do bônus e o valor dele
+
+questao 8-
+
+1- Falar para o usuário o que será feito no programa
+2- criar a variável para receber o valor do usuário
+3- colocar o while true
+4- utilizar o if para validar caso a variável seja maior que 0
+5- utilizar o elif para validar caso a variável seja menor que 0
+6- utilizar o else para caso de algo errado
+7- colocar o break para o programa não ficar se repetindo assim que aparecer a resposta
+8- em todos os casos, no final irá aparecer a resposta se o número é negativo ou positivo
+
+questão 9-
+
+1- informar o usuário sobre o que o programa irá fazer
+2- criar as variáveis para pegar os valores
+3- fazer um if para validar caso todos os valores sejam iguais
+4- fazer um elif para validar caso um dos valores seja diferente
+5- fazer um elif para validar caso todos os valores sejam diferentes
+6- validar um else para caso de algo de errado
+7- em todos os casos apresentará uma mensagem final com seus respectivos resultados

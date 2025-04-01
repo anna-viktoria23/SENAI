@@ -1,0 +1,14 @@
+1-crie um programa que repita sempre, ele deve pedir a temperatura do dia e dizer como o clima está:
+
+frio: temperatura < 20 graus
+quente: > 30 graus
+ameno: temperatura entre 20 e 30 graus
+
+o programa deve parar quando receber a letra "s"
+
+2- crie um programa que receba 5 salarios de uma empresa e vá acumulando. ao final traga o valor total das somas dos salarios.
+
+
+algoritimo 1:
+
+1-entrar com os dados

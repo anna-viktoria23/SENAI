@@ -1,0 +1,3 @@
+variavel contadora: quantidade
+variavel acumuladora: guarda as somas, acumulando seus valores
+

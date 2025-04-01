@@ -1,0 +1,43 @@
+python: Caracteristicas
+
+|*Legivel*|- indentação obrigatoria. Não obriga misturas "tabs" e espaços
+|*Multiplataforma*|- Windows, Linux/Unix, MacsOS
+|*Tipagem forte e dinamica*|- é possivel atribuir qualquer tipo de valor a uma variavel e em qualquer momento do codigo fonte
+|*Multiparadigma*|- Estruturado, Funcional e Orientado  a objetos
+Usada em varias aplicações: desktop, web, moblie, sistemas embarcados, sistemas 3D
+|-Diferença maiúscula e minúscula-|
+
+Shell: terminal
+------------------------------------------------------------------
+Aula 1
+
+Tópicos:
+-Variaveis
+-tipos de dados
+-operadores
+-entrada de dados
+
+|*VARIÁVEIS*|
+-Iniciar, obrigatoriamente, com uma *letra*
+-Pode conter numeros e o carectere de sublinhado (_)
+-Permite a utilização de acentos (conjunto de caracter chamado UTF-8), a partir da versão 3
+-Exemplos: nome, n1, média_notas,_a.
+
+TIPOS DE DADOS
+-Inteiros (1,2,3)
+-Pontos flutiantes (1.33, 3.14)
+*LOGICO OU BOOLEANO*
+-True para verdadeiro
+-False para falso
+*String*
+- s= "abc" ou s= 'abc' (variavel tipo texto)
+Listas
+Triplas
+Dicionarios
+
+|OPERADORES ARITIMÉTICOS|
+
+
+
+
+

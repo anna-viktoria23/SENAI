@@ -1,0 +1,11 @@
+algoritimo 1
+
+-crias as variaveis dos numeros com a soma
+-colocar um if para ver se ele será maior 20 ele deve ser somado com 8
+-colocar um else para caso essa numero seja MENOR ou IGUAl a 20, ele tera que subtrair 
+
+algoritimo 2
+
+-pedir um numero
+-colocar o codigo para acessar a biblioteca e conseguir fazer a raiz quadrada caso o numero seja positivo ou igual a zero
+- e um para drao quadrado do numero caso ele seja negativo

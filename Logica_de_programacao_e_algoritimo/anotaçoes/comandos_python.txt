@@ -1,0 +1,18 @@
+<ncomandos pythin
+
+= atribuição, receber
++ soma
+- subtração
+** potenciação
+% resto da divisão (modulo)
+/ dividir 
+* multiplicação
+. funciona como virgula em numeros quebrados
+, separa elementos
+// divisão de inteiros
+== igualdade
+> maior que
+< menor que
+!= diferente
+>= maior ou igual
+<= menor ou igual

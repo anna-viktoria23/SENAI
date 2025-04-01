@@ -1,0 +1,11 @@
+crie um algoritimo que receba 3 numeros e informe qual o maior entre eles 
+
+passo a passo
+
+1- inicio
+2-entrar com três nuemros
+3- verificar se os três são valores diferentes
+4- n1 é maior que n2, e n1 é maior que n3 --> se sim n1 é o maior
+5- n2 é maior que n1, e n2 é maior que n3 --> se sim n2 é o maior
+6- n3 é maior que n1, e n3 é maior que n2 --> se sim n3 é o maior
+7- fim

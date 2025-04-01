@@ -1,0 +1,55 @@
+o conceito principal de listas é de armazenar mais de um valor, podendo ser de varios tipos em python
+
+variaveis: tres tipos mais comunns: inteiros (int); reais (float)(Com quebrados); string (str), boleano:
+if num > 5:         - true
+	print (num)
+else:              - false
+	print (5)
+
+input- 
+tem que ter variavel, o tipo da variavel 
+ex: jonas= float (input("bla bla bla"))
+
+print- serve para mostrar texto; mostrar valores/variaveis (ambas podem ser mostradas separadas ou em conjunto)
+ex1 mostrar texto: print ("bla bla bla bla")
+ex2 mostrar a variavel: print (valor)
+ex3 texto e variaveis separados por virgula: print ("Oi o valor é: ", valor)
+ex4 de print com f string: (f" Oi o valor é: {valor}")
+|_ não precisa saparar as variaveis
+ex5 f string para deixar duas casas depois da virgula: print (f" Oi o valor é: {valor:.2f})
+ex6 para deixar dois numeros apos a virgula: print ("Oi o valor é: %.2f" %valor)
+ex7 para deixar dois numeros apos a virgula com varias variaveis: print ("Oi o valor é: %.2f e bla bla bla é: %" %(valor, outro))
+ex8 f string para deixar duas casas depois da virgula com varias variaveis: print (f" Oi o valor é: {valor:.2f} e o outro é: {outro:.3f}")
+
+if e else
+- or: verificar as duas afirmações e uma delas tem que ser verdadeiras
+v1---v2---R
+ v    v   v
+ f    v   v
+ v    f   v
+ f    f   f
+
+- and: as duas afirmações tem que ser verdadeiras
+V1----V2----R
+ v    v    v
+ v    f    f
+ f    v    f
+ f    f    f
+
+ex de if e else com elif:
+num1= 10
+num2= 5
+
+if num1 > num2:
+	print ("O num1 é maior")
+elif num2 > num1:
+	print ("O num2 é maior")
+else:
+	print ("Os valores são iguais")
+
+for: usar quando se sabe a quantidade de vezes que ira repetir
+while: usar quando não tem a quantidade
+
+ex for com fim: for i (variavel) in range (5)-- irá repetir do 0 até o 5, mas não chega no 5, pois para sempre um antes
+ex for com fim e inicio: for i in range(0, 10)-- não conta o 10, pois não conta o ultimo.
+
